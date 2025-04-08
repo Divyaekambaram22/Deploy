@@ -7,3 +7,4 @@ gspread-pandas>=2.3.0
 google-auth>=2.21.0
 matplotlib>=3.7.1
 seaborn>=0.12.2
+streamlit_option_menu
